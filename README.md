@@ -24,13 +24,44 @@ Short summary:
 - Removed unnecessary columns for streamlined analysis.
 
 ## Data Visualization
-- Trend of Event Participation Over Time.
-- Ranking the most popular events based on participant numbers.
-- Distribution of participants by gender and age.
-- Analysis of athlete average speed by event distance and gender.
-- Average speed trends across different age groups.
-- Monthly variation in event participation.
-- Comparison of participation between summer and winter months.
+
+### Trend of Event Participation Over Time.
+We can see that the number of events throughout the years has steadily increased since 2012. However, there was a sudden plunge in the data in 2020, which is highly likely due to the COVID-19 pandemic and lockdown measures. 
+
+![Trend of Participation Over Time](/vizs/Trend%20participation.png)
+
+### Ranking the most popular events based on participant numbers.
+From the visualization, we can see the most popular events in Australia. In the first and second please, the same events with different distances have topped. That is "Ultra Trail Australia."
+
+#### What is Ultra Trail Australia?
+Ultra-Trail Australia (UTA) is Australia's premier trail running event held annually in the Blue Mountains National Park, New South Wales. The course takes runners through some of the most stunning scenery in the Blue Mountains, including waterfalls, eucalyptus forests, and sandstone cliffs.
+
+![The Most Popular Events](/vizs/Most%20popular%20events.png)
+
+### Distribution of participants by gender and distance.
+In both distances, we can see the male is predominantly higher than the female participants. 
+
+![The Distribution of Race Distance & Gender](/vizs/Race%20distance%20&%20gender.png)
+
+### Age Distribition of Participants
+Regardless of the distance, the active participants of ultra-marathon age distribution start when the runners are in their early 30s and late 50s, including both genders. 
+
+![Age Distribition](/vizs/Age%20distribution.png)
+
+### Average Speed by Event Distance & Gender
+From this visualization, we can observe in both distances, male runs slightly faster than females. 
+
+![Average Speed by Event Distance & Gender](/vizs/Avg%20speed%20by%20dis%20&%20gen.png)
+
+### The Average Speed of Athletes by Age
+We can see numerous variations in terms of average speeds from different age groups as well as gender. Nonetheless, one thing we can observe clearly is that the average speed is decreasing when the age is increasing. 
+
+![The Average Speed of Athletes by Age](/vizs/age%20&%20gender%20&%20avg%20speed.png)
+
+### Monthly Variation in Event Participation
+The month May typically hold the highest number of ultra-marathon events. 
+
+![Monthly Variation in Event Participation](/vizs/Monthly%20variation.png)
 
 ## Project Goals:
 The primary objective of this project is to illustrate the extensive participation of Australians in ultra-marathon events. 
